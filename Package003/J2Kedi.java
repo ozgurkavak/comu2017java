@@ -7,7 +7,7 @@ package Package003;
 
 public class J2Kedi {
 
-        int boy = 5; //instance veriable (durum değişkeni)
+        int boy = 5; //instance variable (durum değişkeni)
 
         static int kilo = 25; // static
 
